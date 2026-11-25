@@ -1,4 +1,4 @@
--- Spider-Man wall walk for LinusWare (v5)
+-- wall walk for LinusWare (v5)
 --
 -- Toggle with the keybind in the SETTINGS card (default Z). Stop any older
 -- wallwalk script before running this one.
