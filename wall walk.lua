@@ -1,4 +1,4 @@
--- Spider-Man wall walk for LinusWare (v10 — lw.ui window)
+-- wall walk for LinusWare (v10 — lw.ui window)
 -- Re-running this script stops the previous copy. Stop any older wallwalk first.
 -- Keys live in the Wall Walk window: Z toggle, LeftControl sprint, F dash, X let go.
 
