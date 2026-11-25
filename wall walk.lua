@@ -1,3 +1,6 @@
+-- fully vibecoded
+-- claude, gemini, and deepseek made the current version
+-- scripting api is at https://linusware.org/docs/api
 -- wall walk for LinusWare (v10 — lw.ui window)
 -- Re-running this script stops the previous copy. Stop any older wallwalk first.
 -- Keys live in the Wall Walk window: Z toggle, LeftControl sprint, F dash, X let go.
