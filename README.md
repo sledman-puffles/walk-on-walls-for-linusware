@@ -7,6 +7,3 @@ to run put loadstring(game:HttpGet("https://raw.githubusercontent.com/sledman-pu
 
 
 thanks claude, deepseek, and gemini
-
-
-11 current versions out
